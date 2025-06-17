@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Insert your own title"
-date:   2025-06-16 16:59:04 +0200 (replace date and timezone respecively)
-categories: add your own categories with a space seperating each category
+title:  Arch Btw
+date:   2025-06-17 21:21 +0000
+categories: linux superior operating system arch
 ---
 
 # Arch is the Best
